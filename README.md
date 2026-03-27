@@ -1,7 +1,7 @@
 # Nelson Cabinetry — 3D Room Planner
 
 ## Tech Stack
-- Next.js 14
+- Next.js 16
 - Firebase Firestore
 - Three.js / React Three Fiber
 - TypeScript
